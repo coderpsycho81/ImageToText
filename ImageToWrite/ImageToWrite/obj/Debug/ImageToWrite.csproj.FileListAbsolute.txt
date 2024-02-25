@@ -1,0 +1,16 @@
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\ImageToWrite.exe.config
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\ImageToWrite.exe
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\ImageToWrite.pdb
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.csproj.AssemblyReference.cache
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.Form1.resources
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.Properties.Resources.resources
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.csproj.GenerateResource.cache
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.csproj.CoreCompileInputs.cache
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.exe
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.pdb
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\x86\tesseract50.dll
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\x64\tesseract50.dll
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\bin\Debug\Tesseract.dll
+C:\Users\coderpsycho\Desktop\ImageToWrite\ImageToWrite\obj\Debug\ImageToWrite.csproj.CopyComplete

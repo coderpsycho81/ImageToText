@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToWrite", "ImageToWrite\ImageToWrite.csproj", "{0741987F-85AC-4BDB-A914-A2CE0BCB138D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ImageToWrite_Setup", "ImageToWrite_Setup\ImageToWrite_Setup.vdproj", "{DF2F678D-E0B3-4AB1-91A0-8904810155C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0741987F-85AC-4BDB-A914-A2CE0BCB138D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0741987F-85AC-4BDB-A914-A2CE0BCB138D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0741987F-85AC-4BDB-A914-A2CE0BCB138D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0741987F-85AC-4BDB-A914-A2CE0BCB138D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2F678D-E0B3-4AB1-91A0-8904810155C4}.Debug|Any CPU.ActiveCfg = Debug
+		{DF2F678D-E0B3-4AB1-91A0-8904810155C4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D1FCD5-7C0E-4EBC-9AAE-BB915B28CEE8}
+	EndGlobalSection
+EndGlobal
